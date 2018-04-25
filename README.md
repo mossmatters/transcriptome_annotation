@@ -26,6 +26,7 @@ Unigenes are identified by the first two fields (c1_g1) and the other transcript
 The O'Neil & Emrich claims that statistics based on annotations to reference genomes are more consistent. These stats include:
 
 * Number of transcripts with BLAST hits in a reference proteome
+* Number of unique proteins in the reference proteome with a BLAST hit
 * Collapse factor (average number of transcripts that match the same protein sequence)
 
 Finally, the annotation statistics may be different when all transcripts are considered versus summarizing them for each unigene separately. Statistics could include:
